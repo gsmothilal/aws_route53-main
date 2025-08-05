@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  BUCKET_NAME: terraform-state-pratyushaa---why3
+  BUCKET_NAME: terraform-state-pratyushaa---why3215
 
 jobs:
   plan:
